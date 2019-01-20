@@ -1,4 +1,4 @@
-	package com.nbrasilio.cursomc;
+package com.nbrasilio.cursomc;
 
 import java.util.Arrays;
 
